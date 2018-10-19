@@ -1,3 +1,5 @@
+# https://www.datacamp.com/community/tutorials/lstm-python-stock-market
+
 import matplotlib.pyplot as plt
 import json
 import tensorflow as tf
